@@ -1,0 +1,11 @@
+<RCC><qresource prefix="/icons">
+  <file alias="brand.png">icons/brand.png</file>
+  <file alias="AidfamePlayer.ico">icons/AidfamePlayer.ico</file>
+  <file alias="brand-dev.svg">icons/brand-dev.svg</file>
+  <file alias="play.svg">icons/play.svg</file>
+  <file alias="pause.svg">icons/pause.svg</file>
+  <file alias="volume.svg">icons/volume.svg</file>
+  <file alias="camera.svg">icons/camera.svg</file>
+  <file alias="record.svg">icons/record.svg</file>
+  <file alias="fullscreen.svg">icons/fullscreen.svg</file>
+</qresource></RCC>

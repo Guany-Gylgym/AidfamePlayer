@@ -1,0 +1,24 @@
+Aidfame Player 1.0.0 - INTERNAL EDITION
+
+Authorized scope: personal and company-internal use only.
+This internal build does not claim every requested cross-hardware capability.
+See docs/Test-Report.md for actual test results and remaining limitations.
+
+Implemented: local playback, hardware/CPU decoding policies, configurable
+shortcuts, speed/aspect/quality controls, screenshots, MP4 interval recording,
+local settings/history, owned-cache cleanup, mini/fullscreen modes, and Windows
+file-handler registration. Windows requires the user to confirm default apps.
+
+Recording re-encodes the watched source interval when Stop is pressed.
+It does not capture desktop overlays or time spent paused/buffering.
+BRAW has a documented plugin interface, not a bundled proprietary SDK decoder.
+Direct Intel QSV is not enabled by this build.
+
+No account, telemetry, updater, network playback, or installer download step.
+User media, settings, screenshots and recordings are preserved on uninstall.
+This build is unsigned. Windows may display a publisher/SmartScreen warning.
+
+Qt, mpv, FFmpeg and their dependencies retain their respective licenses.
+No license is assigned to the user's application source by this notice.
+Public redistribution is outside the authorized scope and requires a separate
+license/source-compliance review. See docs/Dependencies.md.

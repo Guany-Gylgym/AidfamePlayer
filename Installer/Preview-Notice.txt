@@ -1,0 +1,18 @@
+Aidfame Player 0.2.0 - LOCAL DEVELOPMENT PREVIEW
+
+This is not the completed or production-qualified product.
+Implemented: local mpv playback, basic controls, speed, aspect ratio,
+resolution caps, fullscreen, and playback information.
+
+Not yet implemented: configurable arrow shortcuts, screenshot/recording,
+settings/history persistence, cache management, mini player, file associations,
+and BRAW plugins. The original brand icon is not included.
+
+The two-hour stability test and clean Windows 10/11 VM acceptance have NOT passed.
+Do not rely on this preview for critical work or publish it as a final release.
+
+Runtime is offline. There is no account, telemetry, updater, or download step.
+Bundled components include Qt and libmpv/FFmpeg; their respective licenses apply.
+The prebuilt mpv license/source-compliance audit is pending. This package is
+provided for local development evaluation, not approved for public redistribution.
+See docs/Dependencies.md for provenance and source/build references.

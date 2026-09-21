@@ -1,0 +1,11 @@
+/.tools/
+/build/
+/out/
+/vendor/
+/release/
+/Tests/Media/*
+/Tests/FormatMedia/
+!/Tests/Media/README.md
+*.user
+*.log
+__pycache__/
